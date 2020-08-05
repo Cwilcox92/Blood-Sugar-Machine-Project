@@ -1,4 +1,4 @@
-# Project_1
+# Blood Sugar Machine Project
 //Carlton O. Wilcox 
 //COSC 2030
 //Project 1
